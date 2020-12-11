@@ -1,1 +1,1 @@
-This repository contains my Masters thesis report and presentation from 2019
+This repository contains report and presentation of my Masters thesis defended in 2019
